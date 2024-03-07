@@ -9,6 +9,7 @@ Then, open in command-line and answer the questions.
 Voila! you logo in a svg file is ready for you.
 
 ## Link
+https://youtu.be/tWgshJWoj4A
 
 ## References used
 * https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
